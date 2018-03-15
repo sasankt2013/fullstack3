@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 java file is added
+=======
+adding content to file
+>>>>>>> development
